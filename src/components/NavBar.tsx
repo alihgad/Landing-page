@@ -167,7 +167,7 @@ export default function NavBar() {
             <div className="space-y-1 px-2 pb-3 pt-2">
               
 
-              <ul className="flex flex-col space-y-4 items-end text-right  p-2 border rounded-lg ">
+              <ul className="flex flex-col space-y-4 items-end text-right  p-2  ">
                 <li>
                   <a
                     key={"Home"}
